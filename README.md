@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binitstha&show_icons=true&locale=en&layout=compact" alt="binitstha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binitstha&show_icons=true&locale=en" alt="binitstha" /></p>
+<p>&nbsp;<img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" alt="binitstha" /></p>
 
 <p><img align="center" src="https://git.io/streak-stats&" alt="binitstha" /></p>
 
