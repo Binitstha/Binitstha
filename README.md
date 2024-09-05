@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Binitstha&icon=1&color=12)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Binitstha&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
