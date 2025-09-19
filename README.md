@@ -33,8 +33,6 @@ These are some of the languages, frameworks, and tools I enjoy working with:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 </div>
 
