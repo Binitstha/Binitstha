@@ -51,13 +51,13 @@ These are some of the languages, frameworks, and tools I enjoy working with:
 Feel free to reach out to me on my socials:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank">
+  <a href="https://www.linkedin.com/in/imbinitshrestha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn Logo" />
   </a>
-  <a href="https://discord.com/users/YourDiscordUsername" target="_blank">
+  <a href="https://discordapp.com/users/1347523265438023702" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Discord Logo" />
   </a>
-  <a href="https://www.instagram.com/YourInstagramUsername/" target="_blank">
+  <a href="https://www.instagram.com/binit_shrestha_7?igsh=YzdxbGpkaHFjMmp0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="Instagram Logo" />
   </a>
 </div>
