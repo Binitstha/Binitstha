@@ -2,7 +2,10 @@
 
 ---
 
-I'm a passionate **Full-Stack Developer** who loves building cool stuff with modern technologies. Here's a little bit about me and the tools I enjoy working with!
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <p style="flex: 1; margin: 0;">I'm a passionate **Full-Stack Developer** who loves building cool stuff with modern technologies. Here's a little bit about me and the tools I enjoy working with!</p>
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlqYmc4Z3dvejR0Z3o3NGFwc20xbnd5Yjkzcm13ZnY0YWRnY251cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" style="flex-shrink: 0;" />
+</div>
 
 ---
 
